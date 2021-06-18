@@ -1,0 +1,4 @@
+app_id = "1081696"
+key = "6106d58aab6449a47cb6"
+secret = "9f2ccdbdebbc222aebd7"
+cluster = "mt1"
